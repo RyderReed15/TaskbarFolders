@@ -2,9 +2,9 @@
 Rainmeter skin to add popup menus to taskbar
 
 
-## *********************************
-#   TaskbarFolder Instructions
-## *********************************
+### *********************************
+###   TaskbarFolder Instructions
+### *********************************
 
 ### STEP 1:
 Create a folder in the 'Dialogs' directory of the skin. 
